@@ -1,0 +1,10 @@
+{
+    "username": "team9",
+    "cluenumber": 3,
+    "description": "Un volcán que lleva el nombre del producto de una erupción",
+    "isComplete": 0,
+    "dateAvailable": "2022-10-31 00:00:00",
+    "xCoord": 30.444741,
+    "yCoord": -115.976563,
+    "epsilon": 5
+  }

@@ -1,0 +1,10 @@
+{
+    "username": "team6",
+    "cluenumber": 4,
+    "description": "Парк, в котором хранятся наскальные рисунки «Цагаан Салаа»",
+    "isComplete": 0,
+    "dateAvailable": "2022-11-7 00:00:00",
+    "xCoord": 48.470880,
+    "yCoord": 88.717880,
+    "epsilon": 5
+}
