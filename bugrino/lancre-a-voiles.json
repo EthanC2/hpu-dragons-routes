@@ -1,0 +1,10 @@
+{
+    "username": "team3",
+    "cluenumber": 2,
+    "description": "Un endroit au nord où l'ancre navigue",
+    "isComplete": 0,
+    "dateAvailable": "2022-10-24 00:00:00",
+    "xCoord": 54.836814,
+    "yCoord": -69.658019,
+    "epsilon": 10
+}

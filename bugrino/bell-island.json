@@ -1,0 +1,10 @@
+{
+    "username": "team3",
+    "cluenumber": 1,
+    "description": "Une île qui sonne dans la capitale du Canada",
+    "isComplete": 0,
+    "dateAvailable": "2022-10-17 00:00:00",
+    "xCoord": 45.413553,
+    "yCoord": -75.731009,
+    "epsilon": 2
+}
